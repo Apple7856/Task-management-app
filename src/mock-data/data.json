@@ -1,0 +1,70 @@
+[
+  {
+    "id": "task-list-1",
+    "title": "Car Parking",
+    "desc": "Car parking management",
+    "category": [
+      {
+        "id": "category-1",
+        "title": "Auth page",
+        "desc": "create account and login page",
+        "priority": "high",
+        "start": 1,
+        "end": 7
+      },
+      {
+        "id": "category-2",
+        "title": "Home page",
+        "desc": "home page view, show avilable parking and something other.",
+        "priority": "medium",
+        "start": 3,
+        "end": 4
+      },
+      {
+        "id": "category-3",
+        "title": "Setting",
+        "desc": "setting page",
+        "priority": "low",
+        "start": 1,
+        "end": 6
+      }
+    ],
+    "start": 1,
+    "end": 3,
+    "priority": "high"
+  },
+  {
+    "id": "task-list-2",
+    "title": "Hotel Management",
+    "desc": "Manage hotel rooms and hotel employee.",
+    "category": [
+      {
+        "id": "category-1",
+        "title": "Auth page",
+        "desc": "create account and login page",
+        "priority": "low",
+        "start": 0,
+        "end": 4
+      },
+      {
+        "id": "category-2",
+        "title": "Home page",
+        "desc": "home page view, show avilable rooms and something other.",
+        "priority": "medium",
+        "start": 2,
+        "end": 9
+      },
+      {
+        "id": "category-3",
+        "title": "Dashboard",
+        "desc": "dashboard page",
+        "priority": "high",
+        "start": 4,
+        "end": 8
+      }
+    ],
+    "start": 1,
+    "end": 3,
+    "priority": "high"
+  }
+]
